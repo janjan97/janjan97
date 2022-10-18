@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ### Jan's Status
   
 ![janjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janjan97&show_icons=true&theme=radical)
+
+  --
