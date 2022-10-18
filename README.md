@@ -17,7 +17,7 @@
 <h3 align='center'> 🟡 Tech Stack 🟡 </p>
 
 <!--Languages -->
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2C98F6?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
