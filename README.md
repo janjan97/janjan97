@@ -4,9 +4,9 @@
   
 ### <p align="center"> 🍀 Etenerlly Thinking And Growing 🍀
 
-<p align="center"> 안녕하세요. 시작을 좋아하는 개발자 정원진입니다.
+<p align="center"> 안녕하세요. 타인과의 소통과 협업을 좋아하고 시작을 좋아하는 개발자 정원진입니다.
   
-<p align="center"> 타인과의 소통과 협업을 좋아하고 끝없이 배우고 성장하는 개발자가 되고자 합니다.
+<p align="center"> 끝없이 배우고 성장하는 개발자가 되고자 합니다.
   
 
 
