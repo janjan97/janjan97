@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![janjan97's github stats](https://github-readme-stats.vercel.app/api?username=janjan97&show_icons=true)
