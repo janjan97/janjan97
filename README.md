@@ -26,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 
-![Visual Studio]("https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white")
+![Visual Studio]("https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual_Studio&logoColor=white")
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
