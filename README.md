@@ -26,15 +26,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 
-![Visual Studio]("https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual_Studio&logoColor=white")
+
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
-  <p><p align='center'>
+ <div align="center">
   
 ### <p align="center"> 🔵 Jan's Github
 
@@ -45,6 +45,7 @@
   
 ![janjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janjan97&show_icons=true&theme=radical)
 
+</div>
 <br>
   <!--
 **janjan97/janjan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
