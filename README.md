@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+:Blue Circle:
+
 ### 🔵 Jan's Github
 
 ![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
