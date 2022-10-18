@@ -8,7 +8,7 @@
 
 <h3 align='center'> 🍁 Info / SNS 🍁
   
-<a href="https://janjan-.notion.site/e8805c30950b4ab28e3cdb8cd78f25b3" target="_blank"><img src="https://img.shields.io/badge/ JanJan's Notion-9999FF?style=flat-square&logo=Notion&logoColor=white" width = 120px height = 30px/></a>
+<a href="https://janjan-.notion.site/e8805c30950b4ab28e3cdb8cd78f25b3" target="_blank"><img src="https://img.shields.io/badge/ JanJan's Notion-9999FF?style=flat-square&logo=Notion&logoColor=white" width = 140px height = 30px/></a>
   <a href="https://www.instagram.com/eoenthen" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" width = 120px height = 30px/></a>
 
   
