@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:Blue Circle:
+:Blue_Circle:
 
 ### 🔵 Jan's Github
 
