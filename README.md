@@ -17,14 +17,14 @@
 <h3 align='center'> 🟡 Tech Stack 🟡
 
 
-### 🔵 Jan's Github
+### <p align="center"> 🔵 Jan's Github
 
-![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+<p align="center"> ![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+<p align="center"> ![](https://raw.githubusercontent.com/janjan97/janjan97/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 
-### 🔴 Jan's Status
+### <p align="center"> 🔴 Jan's Status
   
-![janjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janjan97&show_icons=true&theme=radical)
+<p align="center"> ![janjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janjan97&show_icons=true&theme=radical)
 
   <!--
 **janjan97/janjan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
