@@ -34,6 +34,7 @@
 <br/>
 
 <!-- Database & Library & Platform -->
+<img src="https://img.shields.io/badge/QT-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
@@ -50,15 +51,21 @@
 <details>
 <summary>⚫ Techs that I've used at least once ⚫</summary>
 
+  <!--Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/QT-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/>
+  <br/>
+  
   <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white"/>
+  
+  <br/>
   
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  
+  <br/>
   
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
 
