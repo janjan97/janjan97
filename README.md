@@ -16,6 +16,10 @@
 
 <h3 align='center'> 🟡 Tech Stack 🟡
 
+![Java](https://img.shields.io/badge/Java-2C98F6?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
 
   <p><p align='center'>
   
@@ -28,6 +32,7 @@
   
 ![janjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janjan97&show_icons=true&theme=radical)
 
+<br>
   <!--
 **janjan97/janjan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
