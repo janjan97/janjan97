@@ -37,7 +37,7 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=macos&logoColor=F0F0F0)
+![macOS](https://img.shields.io/badge/mac%20os-181717?style=flat-square&logo=macos&logoColor=F0F0F0)
 
 <details>
 <summary>⚫ Techs that I've used at least once ⚫</summary>
