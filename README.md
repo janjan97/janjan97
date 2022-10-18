@@ -2,7 +2,7 @@
 
 
   
-### <p align="center"> 🌌 Etnerlly Thinking And Worry 🌌
+### <p align="center"> 🍀 Etnerlly Thinking And Growing 🍀
 
 
   
