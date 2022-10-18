@@ -2,9 +2,9 @@
 
 
   
-### <p align="center"> 🍀 Etnerlly Thinking And Growing 🍀
+### <p align="center"> 🍀 Etenerlly Thinking And Growing 🍀
 
-
+타인과의 소통과 협업을 좋아하고 끝없이 배우고 성장하는 개발자가 되고자 합니다.
   
 
 
