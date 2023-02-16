@@ -25,15 +25,6 @@
 
 <br/>
 
-<!--IDEs / Tools -->
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-E34F26?style=flat&logo=IntelliJ-IDEA&logoColor=white"/>
-
-<br/>
-
 <!-- Database & Library & Platform -->
 <img src="https://img.shields.io/badge/QT-%23217346.svg?style=flat&logo=Qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
